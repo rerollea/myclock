@@ -1,0 +1,18 @@
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  h1 {
+    font-size: 150px;
+    text-align: center;
+    padding:50px;
+    color:lightseagreen;
+    background: "";
+    transition: background 1s;
+  }
+
+  h1:hover {
+    background: yellow;
+  }
