@@ -5692,7 +5692,7 @@ let displayClock = () => {
 }
 
 let updateClock = () => {
-    setInterval(displayClock, 1500);
+    setInterval(displayClock, 1000);
 }
 displayClock();
 updateClock();
